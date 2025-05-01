@@ -1,0 +1,501 @@
+Fecha,Región,Latitud,Longitud,Temperatura,Humedad,Viento,Precipitación,Índice de sequía,Cobertura vegetal,Uso de suelo,Incendio
+2023-07-01,Santa Cruz,-17.8429,-63.6531,21.6,58.0,4.6,23.4,Alto,Agrícola,Ganadero,No
+2023-07-02,Santa Cruz,-16.5988,-62.3,33.8,40.9,6.3,12.4,Bajo,Pasto,Forestal,No
+2023-07-03,Santa Cruz,-17.501,-63.5546,22.1,49.8,15.5,12.6,Alto,Agrícola,Agrícola,No
+2023-07-04,Santa Cruz,-16.3519,-62.4707,24.8,38.6,5.6,21.6,Bajo,Bosque seco,Forestal,No
+2023-07-05,Santa Cruz,-16.2057,-61.425,39.3,47.6,4.0,14.3,Bajo,Sabana,Ganadero,No
+2023-07-06,Santa Cruz,-16.4978,-63.7411,25.0,71.3,10.7,24.6,Alto,Pasto,Urbano,No
+2023-07-07,Santa Cruz,-16.2949,-62.2173,26.7,64.1,12.0,3.7,Moderado,Sabana,Urbano,No
+2023-07-08,Santa Cruz,-17.8767,-62.102,22.4,29.7,9.4,18.5,Moderado,Agrícola,Forestal,No
+2023-07-09,Santa Cruz,-16.2094,-62.4883,31.9,58.1,18.7,20.7,Bajo,Agrícola,Ganadero,No
+2023-07-10,Santa Cruz,-16.3483,-63.4167,28.7,59.2,5.0,12.9,Moderado,Pasto,Forestal,No
+2023-07-11,Santa Cruz,-16.0033,-61.6451,32.0,62.8,11.0,21.5,Alto,Pasto,Ganadero,No
+2023-07-12,Santa Cruz,-16.2775,-61.6545,20.6,30.2,16.0,28.2,Moderado,Bosque seco,Urbano,No
+2023-07-13,Santa Cruz,-17.4685,-60.0537,36.0,55.4,17.0,26.8,Moderado,Bosque seco,Agrícola,No
+2023-07-14,Santa Cruz,-16.1441,-63.522,35.5,34.2,16.9,22.8,Moderado,Agrícola,Urbano,No
+2023-07-15,Santa Cruz,-16.8932,-62.5521,26.2,72.2,8.3,10.8,Alto,Sabana,Forestal,No
+2023-07-16,Santa Cruz,-17.8966,-62.3304,33.1,63.0,18.3,16.2,Alto,Pasto,Ganadero,No
+2023-07-17,Santa Cruz,-16.0456,-60.6867,37.9,45.7,2.3,20.9,Bajo,Pasto,Forestal,No
+2023-07-18,Santa Cruz,-16.9752,-62.9856,24.2,73.0,9.8,28.1,Moderado,Agrícola,Ganadero,No
+2023-07-19,Santa Cruz,-17.2761,-62.3086,40.0,66.7,18.2,16.1,Alto,Pasto,Ganadero,No
+2023-07-20,Santa Cruz,-17.0997,-60.3367,20.5,24.7,7.3,26.2,Bajo,Bosque seco,Forestal,No
+2023-07-21,Santa Cruz,-17.8761,-63.1432,21.6,50.9,8.8,19.1,Bajo,Bosque seco,Forestal,No
+2023-07-22,Santa Cruz,-16.4921,-61.3388,34.8,54.2,3.8,20.7,Bajo,Pasto,Ganadero,No
+2023-07-23,Santa Cruz,-16.8716,-62.6535,34.9,70.1,9.5,16.5,Moderado,Agrícola,Agrícola,No
+2023-07-24,Santa Cruz,-16.4197,-63.8895,29.7,39.3,10.9,22.1,Alto,Agrícola,Agrícola,No
+2023-07-25,Santa Cruz,-16.9193,-61.631,39.7,36.0,12.9,6.2,Alto,Agrícola,Agrícola,No
+2023-07-26,Santa Cruz,-16.6107,-62.1671,33.4,48.5,17.0,10.5,Moderado,Bosque seco,Urbano,No
+2023-07-27,Santa Cruz,-16.7423,-60.0333,23.0,22.5,18.9,5.3,Alto,Bosque seco,Ganadero,No
+2023-07-28,Santa Cruz,-16.6596,-60.4974,32.1,69.6,1.7,23.4,Moderado,Sabana,Agrícola,No
+2023-07-29,Santa Cruz,-17.5722,-61.6795,33.0,49.9,14.2,13.7,Moderado,Bosque seco,Agrícola,No
+2023-07-30,Santa Cruz,-16.4077,-63.0369,21.5,31.0,3.3,23.8,Alto,Sabana,Ganadero,No
+2023-07-31,Santa Cruz,-16.0306,-61.457,36.2,21.2,9.3,8.3,Alto,Pasto,Agrícola,No
+2023-08-01,Santa Cruz,-16.6531,-63.3578,33.6,47.2,11.5,12.7,Bajo,Pasto,Agrícola,No
+2023-08-02,Santa Cruz,-16.8219,-63.3635,35.0,66.5,19.9,4.9,Alto,Bosque seco,Forestal,No
+2023-08-03,Santa Cruz,-16.7905,-62.7611,38.0,78.9,5.6,11.2,Alto,Agrícola,Forestal,No
+2023-08-04,Santa Cruz,-16.8855,-60.6403,34.1,74.1,10.4,21.8,Bajo,Bosque seco,Agrícola,No
+2023-08-05,Santa Cruz,-16.2791,-62.9364,21.2,22.0,2.2,26.6,Bajo,Pasto,Forestal,No
+2023-08-06,Santa Cruz,-17.8629,-60.7748,32.9,78.8,6.4,13.5,Moderado,Bosque seco,Urbano,No
+2023-08-07,Santa Cruz,-16.6766,-62.4218,21.3,40.5,4.2,15.1,Bajo,Sabana,Urbano,No
+2023-08-08,Santa Cruz,-16.722,-60.4122,31.5,59.4,5.9,0.6,Bajo,Sabana,Urbano,No
+2023-08-09,Santa Cruz,-16.1974,-63.3926,30.8,70.1,10.8,23.7,Bajo,Agrícola,Urbano,No
+2023-08-10,Santa Cruz,-16.1203,-61.324,31.9,20.1,14.0,11.0,Alto,Sabana,Agrícola,No
+2023-08-11,Santa Cruz,-16.6963,-63.9887,22.9,20.7,9.7,13.7,Moderado,Agrícola,Urbano,No
+2023-08-12,Santa Cruz,-17.8704,-61.0624,30.0,58.1,12.7,16.1,Bajo,Agrícola,Urbano,No
+2023-08-13,Santa Cruz,-16.8778,-61.6793,28.9,58.1,5.4,7.5,Bajo,Sabana,Agrícola,No
+2023-08-14,Santa Cruz,-16.4405,-62.8353,33.8,59.0,5.7,9.5,Bajo,Pasto,Agrícola,No
+2023-08-15,Santa Cruz,-17.6073,-60.6509,35.4,53.4,19.0,23.9,Alto,Bosque seco,Forestal,No
+2023-08-16,Santa Cruz,-16.1571,-61.6388,37.8,36.4,19.4,25.1,Bajo,Bosque seco,Forestal,No
+2023-08-17,Santa Cruz,-16.311,-60.9348,24.5,44.7,4.7,21.9,Bajo,Bosque seco,Forestal,No
+2023-08-18,Santa Cruz,-17.0943,-60.9588,39.9,78.4,12.2,11.5,Alto,Bosque seco,Agrícola,No
+2023-08-19,Santa Cruz,-16.6711,-62.8008,36.3,48.0,6.4,27.2,Bajo,Pasto,Agrícola,No
+2023-08-20,Santa Cruz,-17.0354,-61.9477,35.1,58.0,17.9,12.7,Bajo,Agrícola,Ganadero,No
+2023-08-21,Santa Cruz,-16.4773,-62.164,33.8,52.0,3.6,3.4,Bajo,Bosque seco,Ganadero,No
+2023-08-22,Santa Cruz,-17.07,-63.1973,22.2,68.8,7.5,29.5,Alto,Sabana,Urbano,No
+2023-08-23,Santa Cruz,-16.2374,-63.9863,36.0,79.9,4.5,29.0,Moderado,Pasto,Agrícola,No
+2023-08-24,Santa Cruz,-16.8463,-61.316,28.1,75.9,8.7,18.2,Moderado,Bosque seco,Forestal,No
+2023-08-25,Santa Cruz,-17.452,-60.2698,33.7,20.6,17.9,19.3,Alto,Bosque seco,Forestal,No
+2023-08-26,Santa Cruz,-17.8309,-63.9997,33.6,40.5,7.6,11.7,Moderado,Sabana,Urbano,No
+2023-08-27,Santa Cruz,-16.1232,-61.3418,24.2,36.6,11.5,24.0,Alto,Sabana,Urbano,No
+2023-08-28,Santa Cruz,-17.3692,-61.812,28.9,34.5,15.8,27.0,Moderado,Agrícola,Agrícola,No
+2023-08-29,Santa Cruz,-17.8461,-60.4552,21.8,66.5,6.9,7.9,Alto,Bosque seco,Agrícola,No
+2023-08-30,Santa Cruz,-17.3657,-63.2118,28.7,22.3,7.7,1.1,Bajo,Bosque seco,Ganadero,No
+2023-08-31,Santa Cruz,-16.6087,-63.834,20.3,78.0,9.5,15.0,Alto,Agrícola,Agrícola,No
+2023-09-01,Santa Cruz,-17.4649,-63.4291,22.5,68.7,6.1,28.2,Moderado,Pasto,Agrícola,No
+2023-09-02,Santa Cruz,-16.872,-60.1661,36.2,22.4,1.7,10.7,Alto,Sabana,Urbano,No
+2023-09-03,Santa Cruz,-17.6661,-63.6827,38.9,65.6,4.1,19.5,Bajo,Pasto,Urbano,No
+2023-09-04,Santa Cruz,-17.7844,-63.3018,26.5,28.7,17.8,9.2,Bajo,Bosque seco,Ganadero,No
+2023-09-05,Santa Cruz,-16.8523,-61.7006,37.9,39.4,18.6,26.4,Moderado,Pasto,Urbano,No
+2023-09-06,Santa Cruz,-17.2785,-62.7835,24.3,25.6,8.9,17.8,Alto,Agrícola,Forestal,No
+2023-09-07,Santa Cruz,-16.3162,-61.0212,38.3,24.2,1.0,27.1,Bajo,Bosque seco,Urbano,No
+2023-09-08,Santa Cruz,-17.5565,-61.5402,36.7,79.1,7.1,23.3,Moderado,Sabana,Urbano,No
+2023-09-09,Santa Cruz,-17.0835,-61.292,36.8,35.2,9.3,18.9,Moderado,Sabana,Agrícola,No
+2023-09-10,Santa Cruz,-16.1845,-60.2501,27.9,66.1,17.1,3.5,Bajo,Pasto,Ganadero,No
+2023-09-11,Santa Cruz,-17.8545,-62.8559,24.3,66.5,7.4,28.0,Moderado,Pasto,Ganadero,No
+2023-09-12,Santa Cruz,-17.6906,-60.5893,38.9,73.4,7.9,11.0,Alto,Agrícola,Urbano,No
+2023-09-13,Santa Cruz,-16.6941,-60.2678,36.2,71.1,10.5,24.5,Bajo,Agrícola,Agrícola,No
+2023-09-14,Santa Cruz,-17.362,-63.664,32.5,69.8,4.1,10.1,Moderado,Pasto,Ganadero,No
+2023-09-15,Santa Cruz,-16.2542,-62.1627,36.8,57.5,11.3,2.4,Moderado,Bosque seco,Agrícola,No
+2023-09-16,Santa Cruz,-17.1643,-61.9705,30.9,41.2,9.6,21.3,Bajo,Pasto,Ganadero,No
+2023-09-17,Santa Cruz,-17.103,-61.3845,28.4,57.4,16.2,3.2,Alto,Sabana,Urbano,No
+2023-09-18,Santa Cruz,-17.0873,-62.6526,29.9,20.8,1.1,24.9,Bajo,Sabana,Agrícola,No
+2023-09-19,Santa Cruz,-17.7844,-63.2065,28.8,22.1,19.6,2.7,Alto,Pasto,Forestal,No
+2023-09-20,Santa Cruz,-17.3133,-62.6865,30.6,23.5,8.0,19.1,Alto,Sabana,Ganadero,No
+2023-09-21,Santa Cruz,-17.1703,-63.0775,23.5,27.7,8.5,2.5,Moderado,Sabana,Ganadero,No
+2023-09-22,Santa Cruz,-17.2588,-62.2363,20.6,68.6,2.9,17.9,Moderado,Agrícola,Forestal,No
+2023-09-23,Santa Cruz,-16.2581,-62.0481,34.4,50.0,11.6,13.2,Bajo,Agrícola,Forestal,No
+2023-09-24,Santa Cruz,-17.1965,-62.3319,30.4,71.6,12.9,27.7,Bajo,Pasto,Urbano,No
+2023-09-25,Santa Cruz,-17.148,-60.4362,39.6,38.1,16.7,17.0,Bajo,Sabana,Agrícola,No
+2023-09-26,Santa Cruz,-16.4375,-62.9422,28.6,20.8,9.4,15.0,Bajo,Bosque seco,Urbano,No
+2023-09-27,Santa Cruz,-17.119,-62.8283,22.8,22.9,7.1,12.0,Moderado,Bosque seco,Forestal,No
+2023-09-28,Santa Cruz,-17.3605,-63.4488,39.2,75.2,4.9,26.3,Moderado,Bosque seco,Agrícola,No
+2023-07-01,Santa Cruz,-16.344,-60.5343,23.1,20.7,14.8,16.3,Bajo,Sabana,Ganadero,No
+2023-07-02,Santa Cruz,-16.8925,-62.6412,31.2,65.6,15.6,9.2,Bajo,Sabana,Forestal,No
+2023-07-03,Santa Cruz,-17.8427,-60.6506,22.5,71.1,16.5,9.9,Moderado,Pasto,Forestal,No
+2023-07-04,Santa Cruz,-16.5505,-61.8618,21.2,29.8,18.3,6.0,Bajo,Sabana,Agrícola,No
+2023-07-05,Santa Cruz,-16.1177,-63.6153,38.8,48.0,9.8,18.1,Alto,Agrícola,Forestal,No
+2023-07-06,Santa Cruz,-17.6825,-60.1493,39.1,42.2,15.4,13.2,Bajo,Bosque seco,Agrícola,No
+2023-07-07,Santa Cruz,-17.6939,-61.9483,35.9,35.3,19.6,22.2,Bajo,Bosque seco,Forestal,No
+2023-07-08,Santa Cruz,-17.4255,-63.0964,20.1,53.6,14.9,27.3,Bajo,Agrícola,Urbano,No
+2023-07-09,Santa Cruz,-16.3469,-60.3971,39.4,47.3,9.7,3.3,Bajo,Agrícola,Ganadero,No
+2023-07-10,Santa Cruz,-17.3606,-61.0244,34.6,47.5,11.6,14.3,Moderado,Sabana,Ganadero,No
+2023-07-11,Santa Cruz,-16.4667,-60.5294,30.8,58.1,19.2,13.7,Bajo,Pasto,Agrícola,No
+2023-07-12,Santa Cruz,-17.8514,-60.7411,24.9,42.1,14.2,29.0,Alto,Bosque seco,Agrícola,No
+2023-07-13,Santa Cruz,-17.8442,-60.5999,37.5,46.2,4.3,15.5,Moderado,Bosque seco,Forestal,No
+2023-07-14,Santa Cruz,-16.0233,-60.9534,38.3,73.4,17.8,15.8,Alto,Sabana,Forestal,No
+2023-07-15,Santa Cruz,-16.457,-63.1759,29.7,61.6,17.8,19.3,Bajo,Sabana,Urbano,No
+2023-07-16,Santa Cruz,-16.3859,-62.2211,38.4,51.9,14.1,20.1,Alto,Pasto,Ganadero,No
+2023-07-17,Santa Cruz,-17.4143,-61.6433,27.2,55.3,10.3,23.7,Alto,Sabana,Forestal,No
+2023-07-18,Santa Cruz,-16.463,-63.2486,38.3,73.7,18.9,16.9,Moderado,Bosque seco,Urbano,No
+2023-07-19,Santa Cruz,-17.3193,-63.1275,21.1,34.7,2.2,26.8,Bajo,Pasto,Urbano,No
+2023-07-20,Santa Cruz,-16.9861,-63.2116,20.1,32.0,4.0,8.9,Moderado,Bosque seco,Forestal,No
+2023-07-21,Santa Cruz,-17.7904,-61.4337,29.3,43.5,5.0,28.4,Bajo,Pasto,Urbano,No
+2023-07-22,Santa Cruz,-17.7491,-62.2315,20.4,78.5,1.5,28.5,Bajo,Bosque seco,Agrícola,No
+2023-07-23,Santa Cruz,-17.2147,-60.5596,23.2,36.7,4.5,24.4,Moderado,Sabana,Forestal,No
+2023-07-24,Santa Cruz,-17.0198,-60.346,26.5,41.6,12.0,14.0,Moderado,Agrícola,Ganadero,No
+2023-07-25,Santa Cruz,-16.2021,-63.8141,32.4,75.7,16.2,19.8,Moderado,Agrícola,Ganadero,No
+2023-07-26,Santa Cruz,-17.7165,-60.9499,33.3,30.7,1.2,6.6,Alto,Agrícola,Forestal,No
+2023-07-27,Santa Cruz,-17.9178,-63.394,24.2,68.0,14.2,19.1,Moderado,Sabana,Urbano,No
+2023-07-28,Santa Cruz,-17.8355,-62.5597,39.2,56.5,14.1,25.5,Alto,Sabana,Ganadero,No
+2023-07-29,Santa Cruz,-16.7793,-63.7086,36.6,71.4,10.0,9.8,Bajo,Pasto,Forestal,No
+2023-07-30,Santa Cruz,-16.0464,-60.3961,31.0,55.4,10.3,12.3,Bajo,Bosque seco,Urbano,No
+2023-07-31,Santa Cruz,-16.5389,-62.4707,36.9,58.6,16.1,8.5,Alto,Agrícola,Agrícola,No
+2023-08-01,Santa Cruz,-17.9755,-62.3256,29.3,47.8,2.0,12.4,Bajo,Sabana,Agrícola,No
+2023-08-02,Santa Cruz,-16.6784,-62.5529,21.0,42.2,8.1,22.4,Moderado,Bosque seco,Urbano,No
+2023-08-03,Santa Cruz,-17.7472,-62.2324,20.1,30.2,18.0,4.0,Moderado,Pasto,Ganadero,No
+2023-08-04,Santa Cruz,-17.5451,-62.954,37.2,65.3,5.6,7.8,Moderado,Bosque seco,Agrícola,No
+2023-08-05,Santa Cruz,-16.4306,-63.7927,23.1,39.6,6.5,5.8,Bajo,Bosque seco,Agrícola,No
+2023-08-06,Santa Cruz,-17.5938,-62.7207,27.1,20.8,16.1,18.4,Moderado,Pasto,Ganadero,No
+2023-08-07,Santa Cruz,-16.221,-61.6073,38.3,43.1,4.0,22.5,Alto,Sabana,Ganadero,No
+2023-08-08,Santa Cruz,-17.4623,-61.6852,24.3,57.5,13.3,5.6,Alto,Sabana,Ganadero,No
+2023-08-09,Santa Cruz,-16.4523,-60.3253,29.0,53.2,13.3,2.9,Moderado,Pasto,Forestal,No
+2023-08-10,Santa Cruz,-17.3877,-60.01,25.4,69.2,13.3,22.0,Alto,Pasto,Ganadero,No
+2023-08-11,Santa Cruz,-17.0516,-61.8905,20.7,61.8,19.2,7.1,Alto,Pasto,Agrícola,No
+2023-08-12,Santa Cruz,-17.584,-62.9958,29.2,40.8,16.0,11.8,Alto,Bosque seco,Urbano,No
+2023-08-13,Santa Cruz,-17.1409,-60.8189,36.2,62.0,3.8,0.1,Alto,Sabana,Forestal,No
+2023-08-14,Santa Cruz,-16.426,-61.276,32.0,70.5,13.4,27.6,Alto,Bosque seco,Urbano,No
+2023-08-15,Santa Cruz,-17.5206,-61.8936,28.2,30.4,13.6,8.8,Alto,Pasto,Forestal,No
+2023-08-16,Santa Cruz,-16.5762,-60.347,33.3,38.5,5.2,8.0,Alto,Pasto,Agrícola,No
+2023-08-17,Santa Cruz,-16.753,-63.2943,20.9,66.5,8.1,20.5,Alto,Pasto,Forestal,No
+2023-08-18,Santa Cruz,-17.4558,-60.3597,27.9,42.6,14.6,21.6,Moderado,Sabana,Forestal,No
+2023-08-19,Santa Cruz,-16.9213,-63.1917,31.0,40.7,17.7,9.5,Alto,Bosque seco,Agrícola,No
+2023-08-20,Santa Cruz,-17.7705,-61.1123,27.0,43.1,17.3,28.3,Bajo,Agrícola,Ganadero,No
+2023-08-21,Santa Cruz,-17.5539,-60.8801,20.9,32.7,16.0,29.8,Bajo,Bosque seco,Urbano,No
+2023-08-22,Santa Cruz,-17.6027,-61.8624,37.0,52.1,19.9,14.3,Moderado,Agrícola,Agrícola,No
+2023-08-23,Santa Cruz,-16.1404,-61.4585,22.3,68.8,18.2,3.5,Alto,Agrícola,Urbano,No
+2023-08-24,Santa Cruz,-16.1884,-61.2698,22.7,48.4,6.3,8.3,Bajo,Pasto,Forestal,No
+2023-08-25,Santa Cruz,-17.0536,-62.3212,32.7,36.3,2.6,7.2,Moderado,Sabana,Ganadero,No
+2023-08-26,Santa Cruz,-17.3843,-62.914,27.6,56.6,2.9,29.9,Bajo,Pasto,Forestal,No
+2023-08-27,Santa Cruz,-16.3129,-61.4047,36.9,44.1,9.6,21.6,Alto,Pasto,Agrícola,No
+2023-08-28,Santa Cruz,-16.3274,-63.1784,31.7,64.5,3.9,17.3,Alto,Pasto,Forestal,No
+2023-08-29,Santa Cruz,-16.334,-62.422,31.7,72.4,11.0,13.9,Alto,Bosque seco,Forestal,No
+2023-08-30,Santa Cruz,-16.8113,-61.8466,24.2,76.0,18.4,14.2,Alto,Sabana,Forestal,No
+2023-08-31,Santa Cruz,-16.1824,-63.641,31.2,49.0,11.0,19.4,Moderado,Bosque seco,Ganadero,No
+2023-09-01,Santa Cruz,-16.0899,-62.7155,30.9,67.0,3.8,11.7,Bajo,Sabana,Ganadero,No
+2023-09-02,Santa Cruz,-16.3937,-63.4453,31.8,61.3,14.4,8.5,Moderado,Pasto,Agrícola,No
+2023-09-03,Santa Cruz,-16.2383,-63.9106,27.0,44.3,16.5,26.4,Moderado,Pasto,Forestal,No
+2023-09-04,Santa Cruz,-16.0128,-63.971,25.8,49.8,12.0,9.1,Moderado,Bosque seco,Ganadero,No
+2023-09-05,Santa Cruz,-16.744,-60.4769,23.5,35.4,1.6,19.0,Moderado,Bosque seco,Forestal,No
+2023-09-06,Santa Cruz,-16.876,-61.0372,36.9,51.9,5.8,9.8,Bajo,Bosque seco,Agrícola,No
+2023-09-07,Santa Cruz,-17.4217,-63.784,34.6,64.6,5.1,14.5,Moderado,Sabana,Forestal,No
+2023-09-08,Santa Cruz,-16.3446,-60.1985,37.4,21.8,16.3,14.5,Bajo,Bosque seco,Forestal,No
+2023-09-09,Santa Cruz,-16.172,-62.6366,25.7,20.3,8.3,27.1,Bajo,Sabana,Urbano,No
+2023-09-10,Santa Cruz,-16.9276,-63.5952,37.4,48.0,5.0,5.5,Moderado,Pasto,Urbano,No
+2023-09-11,Santa Cruz,-17.9075,-62.4241,20.1,64.1,10.8,4.1,Alto,Bosque seco,Ganadero,No
+2023-09-12,Santa Cruz,-16.0923,-60.793,21.6,29.6,2.3,15.3,Bajo,Sabana,Urbano,No
+2023-09-13,Santa Cruz,-17.6671,-61.4603,21.2,76.2,7.4,28.5,Bajo,Agrícola,Ganadero,No
+2023-09-14,Santa Cruz,-17.891,-61.441,39.7,76.6,2.0,3.8,Alto,Agrícola,Ganadero,No
+2023-09-15,Santa Cruz,-16.0809,-61.1157,24.8,52.7,17.9,28.1,Bajo,Agrícola,Urbano,No
+2023-09-16,Santa Cruz,-17.5647,-63.5558,22.2,46.9,10.9,2.3,Moderado,Agrícola,Agrícola,No
+2023-09-17,Santa Cruz,-17.0204,-62.9562,23.6,72.8,4.1,16.6,Moderado,Agrícola,Agrícola,No
+2023-09-18,Santa Cruz,-16.9468,-60.6068,30.8,45.7,14.8,18.6,Alto,Agrícola,Forestal,No
+2023-09-19,Santa Cruz,-16.5665,-60.4733,21.6,64.3,5.8,1.9,Alto,Pasto,Forestal,No
+2023-09-20,Santa Cruz,-16.906,-60.7171,23.3,28.5,5.8,26.3,Bajo,Pasto,Ganadero,No
+2023-09-21,Santa Cruz,-17.7752,-61.3483,26.5,67.8,12.9,2.4,Moderado,Bosque seco,Urbano,No
+2023-09-22,Santa Cruz,-17.2693,-61.8908,37.5,27.7,6.2,17.3,Moderado,Pasto,Ganadero,No
+2023-09-23,Santa Cruz,-16.2237,-62.4154,21.4,36.1,14.8,7.7,Alto,Sabana,Urbano,No
+2023-09-24,Santa Cruz,-16.1347,-62.3432,29.5,48.7,14.8,29.0,Alto,Sabana,Agrícola,No
+2023-09-25,Santa Cruz,-17.6776,-61.6844,27.9,76.4,2.3,28.1,Moderado,Pasto,Forestal,No
+2023-09-26,Santa Cruz,-16.4454,-60.249,22.5,26.9,17.7,16.6,Alto,Sabana,Agrícola,No
+2023-09-27,Santa Cruz,-17.5114,-63.7066,24.6,56.5,3.2,12.8,Moderado,Bosque seco,Ganadero,No
+2023-09-28,Santa Cruz,-16.2443,-63.6465,30.2,70.1,10.0,16.8,Moderado,Sabana,Urbano,No
+2023-07-01,Santa Cruz,-16.2964,-61.4047,39.9,44.4,3.3,19.8,Alto,Pasto,Forestal,No
+2023-07-02,Santa Cruz,-17.4552,-60.3928,29.2,29.4,9.6,17.4,Bajo,Bosque seco,Forestal,No
+2023-07-03,Santa Cruz,-16.5289,-62.3854,24.9,27.6,8.9,17.7,Bajo,Sabana,Forestal,No
+2023-07-04,Santa Cruz,-17.7066,-60.4372,32.8,75.8,16.9,14.7,Bajo,Sabana,Forestal,No
+2023-07-05,Santa Cruz,-17.1329,-63.282,31.8,66.5,6.7,21.9,Moderado,Sabana,Urbano,No
+2023-07-06,Santa Cruz,-17.036,-60.1821,30.4,32.9,8.0,9.9,Bajo,Agrícola,Agrícola,No
+2023-07-07,Santa Cruz,-16.6037,-62.0491,20.5,46.8,10.0,14.0,Bajo,Bosque seco,Agrícola,No
+2023-07-08,Santa Cruz,-16.8852,-61.2366,24.1,40.5,18.4,27.9,Alto,Bosque seco,Ganadero,No
+2023-07-09,Santa Cruz,-16.6173,-60.1098,24.3,67.8,9.8,21.9,Moderado,Pasto,Agrícola,No
+2023-07-10,Santa Cruz,-16.9244,-60.3152,36.8,39.7,14.9,1.8,Moderado,Sabana,Ganadero,No
+2023-07-11,Santa Cruz,-17.4507,-61.3898,26.9,66.3,7.8,16.7,Alto,Bosque seco,Ganadero,No
+2023-07-12,Santa Cruz,-16.4293,-62.4409,23.1,75.0,12.3,18.5,Moderado,Sabana,Ganadero,No
+2023-07-13,Santa Cruz,-17.779,-63.3199,26.0,66.2,8.0,7.9,Alto,Pasto,Forestal,No
+2023-07-14,Santa Cruz,-17.8958,-63.3576,32.3,41.6,17.3,1.7,Bajo,Bosque seco,Forestal,No
+2023-07-15,Santa Cruz,-17.4111,-63.526,32.8,63.3,7.8,6.1,Bajo,Sabana,Forestal,No
+2023-07-16,Santa Cruz,-16.3449,-61.6994,27.4,33.9,5.5,27.3,Bajo,Pasto,Forestal,No
+2023-07-17,Santa Cruz,-16.4352,-63.2168,21.9,50.0,9.0,29.7,Moderado,Agrícola,Forestal,No
+2023-07-18,Santa Cruz,-17.2319,-61.2145,20.8,52.4,19.5,23.9,Moderado,Agrícola,Urbano,No
+2023-07-19,Santa Cruz,-17.4784,-63.7827,27.4,29.2,8.9,1.5,Bajo,Pasto,Urbano,No
+2023-07-20,Santa Cruz,-16.9926,-62.6126,32.5,45.7,6.1,0.7,Bajo,Bosque seco,Forestal,No
+2023-07-21,Santa Cruz,-17.3568,-61.3476,25.5,45.0,15.5,22.3,Alto,Pasto,Agrícola,No
+2023-07-22,Santa Cruz,-16.3475,-61.3364,20.2,59.5,13.3,15.2,Alto,Bosque seco,Forestal,No
+2023-07-23,Santa Cruz,-16.4084,-60.838,34.3,35.2,2.7,21.3,Bajo,Sabana,Ganadero,No
+2023-07-24,Santa Cruz,-16.2491,-61.9239,33.8,73.7,4.3,4.2,Moderado,Agrícola,Urbano,No
+2023-07-25,Santa Cruz,-16.7131,-61.7033,36.4,48.1,10.5,13.8,Bajo,Agrícola,Urbano,No
+2023-07-26,Santa Cruz,-16.216,-63.085,24.8,38.6,17.0,3.8,Bajo,Sabana,Urbano,No
+2023-07-27,Santa Cruz,-16.3516,-62.8037,22.5,60.2,10.5,7.5,Moderado,Agrícola,Forestal,No
+2023-07-28,Santa Cruz,-16.1987,-62.2117,21.2,79.9,3.4,2.4,Bajo,Agrícola,Urbano,No
+2023-07-29,Santa Cruz,-16.5926,-61.9532,33.7,53.7,15.0,24.5,Alto,Agrícola,Urbano,No
+2023-07-30,Santa Cruz,-17.2256,-62.7219,32.0,76.4,11.9,11.0,Bajo,Sabana,Agrícola,No
+2023-07-31,Santa Cruz,-17.257,-62.8638,38.4,43.3,6.0,14.2,Bajo,Sabana,Ganadero,No
+2023-08-01,Santa Cruz,-17.7491,-63.9729,32.7,41.4,6.4,26.3,Moderado,Bosque seco,Ganadero,No
+2023-08-02,Santa Cruz,-17.4558,-62.8024,27.1,43.3,4.2,20.3,Bajo,Bosque seco,Agrícola,No
+2023-08-03,Santa Cruz,-16.7245,-61.4343,23.1,34.2,7.2,14.4,Moderado,Pasto,Ganadero,No
+2023-08-04,Santa Cruz,-17.0974,-61.2207,34.3,28.6,7.6,14.3,Alto,Sabana,Agrícola,No
+2023-08-05,Santa Cruz,-17.0237,-63.6131,27.2,26.0,11.6,22.2,Moderado,Bosque seco,Ganadero,No
+2023-08-06,Santa Cruz,-16.7679,-61.8129,31.1,58.5,6.5,2.2,Alto,Sabana,Forestal,No
+2023-08-07,Santa Cruz,-16.0661,-61.9322,39.2,77.8,2.3,5.6,Alto,Agrícola,Urbano,No
+2023-08-08,Santa Cruz,-17.9185,-63.5279,26.5,41.4,8.6,13.6,Bajo,Pasto,Forestal,No
+2023-08-09,Santa Cruz,-16.9219,-63.0756,27.8,25.3,1.6,14.3,Moderado,Bosque seco,Agrícola,No
+2023-08-10,Santa Cruz,-17.2906,-62.6063,34.8,27.7,3.6,29.0,Alto,Bosque seco,Agrícola,No
+2023-08-11,Santa Cruz,-17.2379,-62.0543,38.8,77.9,1.3,0.7,Bajo,Agrícola,Ganadero,No
+2023-08-12,Santa Cruz,-16.3238,-61.4481,39.3,52.5,8.3,13.7,Bajo,Agrícola,Forestal,No
+2023-08-13,Santa Cruz,-16.9238,-60.9283,27.3,26.4,5.4,21.7,Bajo,Bosque seco,Agrícola,No
+2023-08-14,Santa Cruz,-16.1993,-63.4784,22.7,68.9,5.8,29.0,Alto,Bosque seco,Agrícola,No
+2023-08-15,Santa Cruz,-16.1964,-60.5533,33.6,70.8,7.0,13.2,Moderado,Agrícola,Ganadero,No
+2023-08-16,Santa Cruz,-16.4546,-60.844,22.9,75.0,19.9,14.5,Alto,Agrícola,Ganadero,No
+2023-08-17,Santa Cruz,-17.465,-62.4585,34.9,46.7,1.4,0.9,Moderado,Agrícola,Ganadero,No
+2023-08-18,Santa Cruz,-17.2455,-60.6689,33.5,51.9,8.1,3.6,Bajo,Pasto,Agrícola,No
+2023-08-19,Santa Cruz,-17.6957,-60.8109,29.2,35.8,11.5,16.7,Alto,Pasto,Ganadero,No
+2023-08-20,Santa Cruz,-16.1709,-62.0163,20.5,54.1,8.9,20.1,Alto,Bosque seco,Agrícola,No
+2023-08-21,Santa Cruz,-17.4366,-60.4662,38.4,48.0,11.0,26.8,Bajo,Agrícola,Ganadero,No
+2023-08-22,Santa Cruz,-17.3244,-61.6328,21.0,22.4,14.4,9.8,Alto,Sabana,Urbano,No
+2023-08-23,Santa Cruz,-16.0724,-60.5268,30.6,49.8,4.9,1.2,Moderado,Sabana,Ganadero,No
+2023-08-24,Santa Cruz,-17.2079,-63.5507,39.3,37.9,8.0,5.2,Alto,Sabana,Agrícola,No
+2023-08-25,Santa Cruz,-17.6111,-63.8507,30.9,44.9,12.6,26.3,Alto,Pasto,Agrícola,No
+2023-08-26,Santa Cruz,-17.4478,-63.8897,26.4,34.8,9.8,5.3,Moderado,Bosque seco,Forestal,No
+2023-08-27,Santa Cruz,-16.3059,-61.8792,21.3,71.7,14.9,26.8,Alto,Agrícola,Agrícola,No
+2023-08-28,Santa Cruz,-17.2565,-62.5784,29.7,56.2,3.3,18.8,Bajo,Pasto,Urbano,No
+2023-08-29,Santa Cruz,-17.5452,-61.8752,20.8,45.7,8.3,21.5,Bajo,Bosque seco,Ganadero,No
+2023-08-30,Santa Cruz,-17.1553,-62.3356,37.7,72.0,11.8,27.2,Alto,Pasto,Forestal,No
+2023-08-31,Santa Cruz,-17.1349,-63.8621,28.2,49.7,10.5,5.9,Alto,Bosque seco,Ganadero,No
+2023-09-01,Santa Cruz,-16.4953,-63.0672,29.0,44.7,3.3,19.9,Alto,Sabana,Forestal,No
+2023-09-02,Santa Cruz,-16.0436,-61.9748,28.5,41.3,5.2,28.5,Bajo,Pasto,Forestal,No
+2023-09-03,Santa Cruz,-17.4913,-60.5573,33.4,42.2,8.5,24.0,Moderado,Bosque seco,Forestal,No
+2023-09-04,Santa Cruz,-16.5493,-62.7272,33.6,42.7,16.0,21.5,Alto,Pasto,Forestal,No
+2023-09-05,Santa Cruz,-17.1407,-63.8751,25.6,47.1,4.7,16.1,Bajo,Agrícola,Urbano,No
+2023-09-06,Santa Cruz,-16.3431,-63.7577,26.5,36.1,1.7,2.7,Alto,Agrícola,Agrícola,No
+2023-09-07,Santa Cruz,-16.518,-62.9121,35.4,60.8,14.5,27.4,Alto,Bosque seco,Agrícola,No
+2023-09-08,Santa Cruz,-17.3625,-62.7281,26.0,21.9,8.4,1.7,Moderado,Pasto,Urbano,No
+2023-07-01,Beni,-14.2572,-64.4493,34.3,52.6,2.0,26.2,Moderado,Agrícola,Forestal,No
+2023-07-02,Beni,-13.5941,-63.8859,28.9,43.7,12.5,16.8,Moderado,Bosque seco,Agrícola,No
+2023-07-03,Beni,-13.786,-64.3204,34.3,52.6,16.3,10.4,Alto,Pasto,Forestal,No
+2023-07-04,Beni,-14.8572,-66.377,21.0,34.4,6.9,24.5,Alto,Sabana,Urbano,No
+2023-07-05,Beni,-13.4696,-63.3018,25.2,39.7,1.0,23.7,Bajo,Pasto,Agrícola,No
+2023-07-06,Beni,-13.4955,-64.063,24.8,77.0,10.9,11.3,Bajo,Sabana,Agrícola,No
+2023-07-07,Beni,-14.3804,-63.2566,27.3,51.7,9.9,29.3,Alto,Pasto,Forestal,No
+2023-07-08,Beni,-13.605,-65.218,32.3,57.8,3.7,4.7,Moderado,Pasto,Agrícola,No
+2023-07-09,Beni,-13.0752,-63.5184,34.2,43.5,7.5,0.1,Bajo,Bosque seco,Forestal,No
+2023-07-10,Beni,-14.1051,-64.4763,37.2,39.3,7.5,4.2,Bajo,Bosque seco,Forestal,No
+2023-07-11,Beni,-14.9728,-66.5233,33.5,43.6,2.8,8.2,Moderado,Bosque seco,Urbano,No
+2023-07-12,Beni,-14.2799,-63.859,31.6,46.2,6.8,27.0,Bajo,Sabana,Urbano,No
+2023-07-13,Beni,-13.4981,-65.3514,25.7,40.5,14.8,14.6,Moderado,Bosque seco,Forestal,No
+2023-07-14,Beni,-14.4153,-65.7557,33.4,37.2,3.2,17.4,Alto,Bosque seco,Ganadero,No
+2023-07-15,Beni,-14.685,-66.5363,39.6,21.4,8.2,7.5,Bajo,Sabana,Ganadero,No
+2023-07-16,Beni,-14.8836,-64.4754,30.1,45.9,8.0,26.9,Moderado,Agrícola,Urbano,No
+2023-07-17,Beni,-14.6907,-66.826,20.3,51.1,6.7,15.2,Bajo,Sabana,Ganadero,No
+2023-07-18,Beni,-14.4049,-65.3449,26.5,74.9,9.7,20.5,Alto,Agrícola,Urbano,No
+2023-07-19,Beni,-14.9896,-64.3893,29.7,29.5,1.6,22.1,Bajo,Pasto,Urbano,No
+2023-07-20,Beni,-13.9345,-65.5652,34.5,57.3,8.8,8.2,Bajo,Sabana,Ganadero,No
+2023-07-21,Beni,-13.9877,-63.3074,31.4,22.7,15.7,10.4,Alto,Pasto,Forestal,No
+2023-07-22,Beni,-13.4837,-63.8353,30.8,51.2,12.0,3.8,Bajo,Agrícola,Forestal,No
+2023-07-23,Beni,-14.282,-63.5458,22.9,38.6,2.1,24.4,Moderado,Agrícola,Ganadero,No
+2023-07-24,Beni,-14.108,-66.7306,34.2,69.4,15.8,6.1,Bajo,Bosque seco,Forestal,No
+2023-07-25,Beni,-13.8328,-65.9069,21.5,49.0,9.6,23.9,Alto,Bosque seco,Agrícola,No
+2023-07-26,Beni,-13.494,-63.373,29.6,52.4,14.5,27.9,Alto,Pasto,Ganadero,No
+2023-07-27,Beni,-14.4874,-65.5957,27.5,25.1,4.0,15.9,Moderado,Sabana,Agrícola,No
+2023-07-28,Beni,-13.255,-64.5312,30.7,45.0,3.0,22.4,Bajo,Pasto,Urbano,No
+2023-07-29,Beni,-13.2251,-65.6591,37.0,41.3,13.2,27.0,Bajo,Pasto,Ganadero,No
+2023-07-30,Beni,-14.0096,-66.5953,30.4,42.6,11.0,1.5,Bajo,Sabana,Forestal,No
+2023-07-31,Beni,-13.9361,-64.6829,37.9,77.5,5.5,12.2,Alto,Sabana,Forestal,No
+2023-08-01,Beni,-14.5504,-65.6584,37.4,74.9,12.5,5.0,Bajo,Agrícola,Urbano,No
+2023-08-02,Beni,-14.9768,-66.9731,30.8,71.9,10.2,18.3,Alto,Sabana,Ganadero,No
+2023-08-03,Beni,-14.6632,-64.7036,39.6,74.0,18.3,10.4,Alto,Pasto,Urbano,No
+2023-08-04,Beni,-14.3847,-63.0959,21.1,58.0,6.4,21.7,Moderado,Agrícola,Urbano,No
+2023-08-05,Beni,-13.6412,-65.9356,27.8,70.6,9.2,20.6,Alto,Pasto,Agrícola,No
+2023-08-06,Beni,-14.0832,-64.4469,26.0,29.7,2.1,27.2,Bajo,Sabana,Forestal,No
+2023-08-07,Beni,-13.0841,-64.5297,21.7,78.8,18.9,24.5,Moderado,Pasto,Forestal,No
+2023-08-08,Beni,-13.483,-65.6291,29.8,43.5,13.5,29.5,Alto,Agrícola,Ganadero,No
+2023-08-09,Beni,-14.0689,-66.8908,23.8,75.9,8.2,23.5,Moderado,Pasto,Forestal,No
+2023-08-10,Beni,-14.2671,-65.3241,32.9,36.4,12.9,1.9,Alto,Sabana,Urbano,Sí
+2023-08-11,Beni,-14.6505,-65.528,36.3,30.0,2.9,16.2,Alto,Sabana,Urbano,No
+2023-08-12,Beni,-14.2264,-66.7233,36.7,25.7,5.7,3.3,Alto,Sabana,Forestal,Sí
+2023-08-13,Beni,-14.898,-63.6676,28.9,65.1,1.3,11.1,Bajo,Pasto,Ganadero,No
+2023-08-14,Beni,-13.5089,-66.7505,28.8,26.2,12.7,7.1,Alto,Bosque seco,Agrícola,No
+2023-08-15,Beni,-14.1002,-64.622,28.7,78.3,17.0,14.4,Moderado,Bosque seco,Agrícola,No
+2023-08-16,Beni,-13.9373,-63.9728,27.2,47.8,15.1,7.4,Moderado,Sabana,Agrícola,No
+2023-08-17,Beni,-14.3144,-65.9062,26.0,64.7,9.7,26.2,Moderado,Agrícola,Agrícola,No
+2023-08-18,Beni,-14.5161,-64.8689,32.3,37.6,14.2,18.2,Bajo,Pasto,Agrícola,No
+2023-08-19,Beni,-14.8157,-66.2479,20.9,59.0,16.4,0.4,Moderado,Sabana,Urbano,No
+2023-08-20,Beni,-14.5813,-66.73,28.6,74.4,1.6,3.7,Moderado,Pasto,Urbano,No
+2023-08-21,Beni,-13.8232,-66.5454,26.8,39.5,13.7,11.2,Moderado,Sabana,Urbano,No
+2023-08-22,Beni,-13.8737,-64.2853,26.1,50.6,4.2,17.7,Bajo,Sabana,Ganadero,No
+2023-08-23,Beni,-14.6163,-64.5607,34.9,72.8,4.4,29.0,Bajo,Bosque seco,Agrícola,No
+2023-08-24,Beni,-14.957,-63.3427,26.8,36.0,12.1,28.5,Alto,Pasto,Agrícola,No
+2023-08-25,Beni,-14.0932,-64.6489,28.6,78.8,15.1,5.4,Alto,Bosque seco,Agrícola,No
+2023-08-26,Beni,-13.0072,-63.0156,30.5,24.9,9.7,12.5,Alto,Sabana,Agrícola,No
+2023-08-27,Beni,-13.54,-64.7864,38.9,41.7,19.9,23.3,Bajo,Bosque seco,Ganadero,No
+2023-08-28,Beni,-14.3562,-63.9259,31.9,49.2,16.9,23.2,Bajo,Sabana,Urbano,No
+2023-08-29,Beni,-14.097,-66.3116,25.0,23.4,17.2,1.4,Moderado,Agrícola,Ganadero,No
+2023-08-30,Beni,-13.0899,-66.186,34.7,68.9,4.4,9.9,Bajo,Agrícola,Agrícola,No
+2023-08-31,Beni,-14.5901,-63.6325,20.1,50.6,14.8,4.8,Moderado,Agrícola,Ganadero,No
+2023-09-01,Beni,-14.273,-64.1786,35.3,22.5,17.4,21.8,Moderado,Agrícola,Agrícola,No
+2023-09-02,Beni,-13.092,-65.9278,29.4,49.8,6.8,1.9,Alto,Bosque seco,Ganadero,No
+2023-09-03,Beni,-13.581,-64.6212,31.3,58.7,14.1,11.8,Moderado,Sabana,Agrícola,No
+2023-09-04,Beni,-14.7549,-63.1322,37.9,32.8,15.0,18.0,Bajo,Bosque seco,Urbano,No
+2023-09-05,Beni,-13.2988,-66.8818,29.2,76.5,11.7,17.4,Bajo,Sabana,Agrícola,No
+2023-09-06,Beni,-13.9682,-65.2233,23.1,73.1,5.0,1.0,Alto,Bosque seco,Urbano,No
+2023-09-07,Beni,-14.4189,-63.541,37.3,54.8,3.6,9.6,Alto,Agrícola,Forestal,No
+2023-09-08,Beni,-13.7925,-63.0855,25.3,35.5,16.1,11.8,Bajo,Sabana,Agrícola,No
+2023-09-09,Beni,-13.0561,-65.5311,22.8,48.8,10.7,20.8,Bajo,Pasto,Forestal,No
+2023-09-10,Beni,-13.7144,-66.9276,36.8,79.9,5.0,3.8,Moderado,Pasto,Agrícola,No
+2023-09-11,Beni,-13.4851,-64.991,35.7,53.8,7.6,1.1,Bajo,Sabana,Ganadero,No
+2023-09-12,Beni,-13.9983,-63.6512,20.2,43.3,2.1,11.9,Bajo,Pasto,Agrícola,No
+2023-09-13,Beni,-14.9907,-64.6977,20.5,42.5,1.4,1.9,Alto,Agrícola,Urbano,No
+2023-09-14,Beni,-14.8314,-66.1849,21.5,46.9,12.2,5.1,Alto,Agrícola,Ganadero,No
+2023-09-15,Beni,-13.023,-65.4326,27.3,23.0,14.6,6.9,Bajo,Bosque seco,Urbano,No
+2023-09-16,Beni,-14.8376,-64.2501,29.0,50.6,18.1,26.8,Alto,Sabana,Urbano,No
+2023-09-17,Beni,-13.0759,-66.1016,21.7,76.7,19.2,6.1,Alto,Bosque seco,Ganadero,No
+2023-09-18,Beni,-14.3929,-63.0059,33.8,42.0,18.9,16.8,Moderado,Agrícola,Forestal,No
+2023-09-19,Beni,-13.7359,-65.8146,25.0,62.0,9.8,25.7,Alto,Sabana,Urbano,No
+2023-09-20,Beni,-13.3393,-66.986,27.6,43.7,3.3,4.8,Alto,Pasto,Agrícola,No
+2023-09-21,Beni,-13.9225,-63.0826,30.9,69.6,7.5,15.6,Alto,Bosque seco,Urbano,No
+2023-09-22,Beni,-13.6099,-64.4006,27.5,31.1,19.3,28.7,Alto,Pasto,Forestal,No
+2023-09-23,Beni,-14.6578,-64.6591,37.5,37.3,1.6,2.7,Bajo,Agrícola,Urbano,No
+2023-09-24,Beni,-14.1575,-64.1929,32.8,40.9,11.1,21.3,Alto,Bosque seco,Urbano,No
+2023-09-25,Beni,-14.5031,-65.9062,22.0,56.4,20.0,23.8,Moderado,Pasto,Ganadero,No
+2023-09-26,Beni,-14.3626,-63.8696,30.5,69.9,9.3,3.2,Alto,Agrícola,Ganadero,No
+2023-09-27,Beni,-14.7686,-66.8431,26.0,36.3,4.5,27.9,Bajo,Agrícola,Agrícola,No
+2023-09-28,Beni,-13.9642,-65.4116,23.6,68.2,1.9,21.8,Moderado,Sabana,Ganadero,No
+2023-07-01,Beni,-13.3522,-65.777,39.9,56.9,11.5,2.9,Alto,Bosque seco,Agrícola,No
+2023-07-02,Beni,-13.5779,-64.8398,32.6,47.5,7.4,11.3,Moderado,Pasto,Agrícola,No
+2023-07-03,Beni,-13.2145,-66.5482,33.1,74.6,17.8,0.4,Bajo,Agrícola,Forestal,No
+2023-07-04,Beni,-13.6029,-65.4871,39.6,34.5,11.5,28.7,Bajo,Pasto,Agrícola,No
+2023-07-05,Beni,-14.5557,-63.756,39.0,72.7,1.1,11.4,Alto,Agrícola,Ganadero,No
+2023-07-06,Beni,-13.2469,-63.7472,23.9,71.4,10.6,10.6,Moderado,Agrícola,Urbano,No
+2023-07-07,Beni,-13.5341,-63.7634,26.0,22.8,13.0,16.8,Alto,Agrícola,Agrícola,No
+2023-07-08,Beni,-13.9118,-65.7009,38.2,65.0,17.7,23.0,Moderado,Pasto,Urbano,No
+2023-07-09,Beni,-14.5104,-66.8653,21.9,29.5,10.1,4.9,Bajo,Pasto,Forestal,No
+2023-07-10,Beni,-14.3857,-66.7049,21.7,30.9,16.9,22.1,Moderado,Sabana,Urbano,No
+2023-07-11,Beni,-14.2561,-63.8414,25.8,59.3,3.9,19.1,Alto,Sabana,Ganadero,No
+2023-07-12,Beni,-13.3047,-65.8998,27.5,30.3,16.1,20.3,Alto,Bosque seco,Ganadero,No
+2023-07-13,Beni,-13.5576,-65.7977,28.2,55.6,14.1,5.5,Moderado,Sabana,Ganadero,No
+2023-07-14,Beni,-13.1219,-64.016,37.3,67.5,19.5,18.9,Alto,Pasto,Forestal,No
+2023-07-15,Beni,-13.2351,-65.41,37.9,72.2,12.2,7.3,Alto,Agrícola,Urbano,No
+2023-07-16,Beni,-14.0608,-63.9292,32.1,74.9,2.4,23.6,Bajo,Pasto,Ganadero,No
+2023-07-17,Beni,-14.3729,-66.6888,33.4,70.5,5.4,16.8,Alto,Pasto,Urbano,No
+2023-07-18,Beni,-14.5551,-63.7195,38.7,73.6,16.3,14.3,Bajo,Sabana,Ganadero,No
+2023-07-19,Beni,-13.3922,-65.8178,32.9,47.0,4.5,15.7,Bajo,Pasto,Agrícola,No
+2023-07-20,Beni,-13.8042,-65.3452,37.0,46.5,10.9,21.0,Moderado,Sabana,Agrícola,No
+2023-07-21,Beni,-14.0947,-66.9918,27.2,46.6,11.4,28.7,Alto,Sabana,Agrícola,No
+2023-07-22,Beni,-14.4614,-64.893,33.4,72.2,9.7,4.6,Bajo,Pasto,Forestal,No
+2023-07-23,Beni,-13.6562,-64.6955,29.9,32.7,2.0,15.1,Moderado,Sabana,Agrícola,No
+2023-07-24,Beni,-14.1614,-66.5612,30.9,42.0,7.6,8.9,Bajo,Agrícola,Urbano,No
+2023-07-25,Beni,-14.1267,-65.6456,21.5,34.9,5.3,6.0,Moderado,Agrícola,Urbano,No
+2023-07-26,Beni,-14.44,-66.2816,22.4,38.0,11.3,12.3,Bajo,Pasto,Agrícola,No
+2023-07-27,Beni,-13.0296,-65.7167,25.7,34.1,14.7,11.5,Bajo,Agrícola,Forestal,No
+2023-07-28,Beni,-14.1104,-64.9314,29.4,26.7,18.6,14.6,Moderado,Agrícola,Ganadero,No
+2023-07-29,Beni,-13.7926,-65.7836,34.9,37.8,17.0,7.6,Moderado,Bosque seco,Forestal,No
+2023-07-30,Beni,-13.4888,-64.9647,34.7,56.6,12.7,22.5,Moderado,Bosque seco,Agrícola,No
+2023-07-31,Beni,-14.2929,-63.149,24.1,61.0,4.0,16.4,Alto,Pasto,Urbano,No
+2023-08-01,Beni,-13.465,-65.9459,20.8,30.1,4.6,22.0,Bajo,Pasto,Agrícola,No
+2023-08-02,Beni,-13.4926,-64.713,38.9,56.6,2.5,22.8,Bajo,Sabana,Forestal,No
+2023-08-03,Beni,-13.0417,-63.7174,36.4,39.9,3.2,13.7,Alto,Pasto,Urbano,No
+2023-08-04,Beni,-14.6852,-64.7404,34.4,35.3,6.3,8.3,Alto,Pasto,Agrícola,No
+2023-08-05,Beni,-14.3684,-63.4021,24.4,61.6,16.2,9.9,Alto,Bosque seco,Forestal,No
+2023-08-06,Beni,-14.8109,-65.2394,26.9,50.7,11.9,0.9,Alto,Agrícola,Agrícola,No
+2023-08-07,Beni,-14.7133,-63.5133,34.0,74.6,12.6,19.4,Moderado,Pasto,Ganadero,No
+2023-08-08,Beni,-14.917,-65.2255,29.0,21.2,9.4,9.9,Moderado,Agrícola,Ganadero,No
+2023-08-09,Beni,-13.0472,-66.8574,20.7,44.2,13.4,22.2,Bajo,Agrícola,Urbano,No
+2023-08-10,Beni,-13.1017,-66.8351,35.9,44.7,8.6,20.6,Moderado,Bosque seco,Ganadero,No
+2023-08-11,Beni,-14.7622,-66.3227,29.0,24.4,15.0,12.3,Alto,Sabana,Forestal,No
+2023-08-12,Beni,-14.168,-65.131,34.4,31.6,17.5,17.4,Bajo,Bosque seco,Forestal,No
+2023-08-13,Beni,-13.7314,-64.7658,31.7,28.5,9.2,27.1,Moderado,Sabana,Urbano,No
+2023-08-14,Beni,-13.1094,-65.954,23.2,74.6,19.3,8.7,Alto,Pasto,Ganadero,No
+2023-08-15,Beni,-14.2195,-64.2954,29.5,79.9,10.8,28.2,Moderado,Agrícola,Agrícola,No
+2023-08-16,Beni,-13.1999,-64.3604,25.5,65.8,13.4,1.5,Alto,Sabana,Agrícola,No
+2023-08-17,Beni,-14.2158,-63.3122,38.5,77.2,15.7,0.9,Bajo,Pasto,Ganadero,No
+2023-08-18,Beni,-14.4997,-64.8052,20.5,70.9,20.0,22.9,Moderado,Bosque seco,Forestal,No
+2023-08-19,Beni,-14.6588,-63.7369,35.7,66.7,12.2,5.7,Bajo,Bosque seco,Forestal,No
+2023-08-20,Beni,-14.0801,-66.2885,36.9,51.0,18.6,29.5,Bajo,Agrícola,Agrícola,No
+2023-08-21,Beni,-14.6242,-65.0145,30.1,68.8,19.1,14.3,Alto,Bosque seco,Agrícola,No
+2023-08-22,Beni,-13.7924,-65.8116,34.9,51.5,8.3,14.2,Bajo,Pasto,Forestal,No
+2023-08-23,Beni,-14.7523,-66.6032,26.8,71.2,11.3,25.8,Moderado,Sabana,Ganadero,No
+2023-08-24,Beni,-13.8765,-64.5418,37.2,69.7,10.2,5.9,Bajo,Agrícola,Forestal,No
+2023-08-25,Beni,-13.6706,-64.9147,21.6,50.4,19.2,25.5,Alto,Agrícola,Agrícola,No
+2023-08-26,Beni,-14.1885,-63.8486,21.8,70.7,5.6,28.8,Alto,Bosque seco,Urbano,No
+2023-08-27,Beni,-13.8927,-64.4506,39.7,56.6,4.8,10.0,Bajo,Pasto,Urbano,No
+2023-08-28,Beni,-13.1637,-64.5709,25.2,76.8,7.0,27.8,Moderado,Pasto,Agrícola,No
+2023-08-29,Beni,-14.1067,-66.5875,37.1,61.5,1.6,16.5,Alto,Sabana,Ganadero,No
+2023-08-30,Beni,-13.0655,-66.0469,33.6,27.1,12.5,17.3,Moderado,Pasto,Agrícola,No
+2023-08-31,Beni,-13.2567,-63.7738,31.0,54.3,19.5,22.1,Alto,Bosque seco,Urbano,No
+2023-09-01,Beni,-13.5578,-65.4761,28.2,24.4,17.7,3.5,Bajo,Bosque seco,Ganadero,No
+2023-09-02,Beni,-14.5943,-66.0667,36.5,27.0,4.7,9.5,Bajo,Sabana,Ganadero,No
+2023-09-03,Beni,-14.6039,-66.6719,26.4,79.2,8.6,8.7,Bajo,Agrícola,Forestal,No
+2023-09-04,Beni,-13.616,-66.5325,22.0,63.6,17.1,13.7,Bajo,Bosque seco,Ganadero,No
+2023-09-05,Beni,-14.6305,-65.077,21.4,43.8,14.0,11.6,Moderado,Bosque seco,Forestal,No
+2023-09-06,Beni,-14.4246,-64.7493,30.0,51.1,19.1,21.0,Alto,Pasto,Forestal,No
+2023-09-07,Beni,-14.3102,-63.5865,35.2,52.5,3.8,27.7,Alto,Agrícola,Agrícola,No
+2023-09-08,Beni,-13.9199,-66.699,24.4,28.7,2.8,4.8,Moderado,Agrícola,Ganadero,No
+2023-09-09,Beni,-14.4604,-63.7122,36.9,28.4,17.1,16.6,Bajo,Bosque seco,Ganadero,No
+2023-09-10,Beni,-14.6601,-66.5602,32.8,71.1,9.4,22.8,Moderado,Agrícola,Agrícola,No
+2023-09-11,Beni,-14.1989,-63.283,22.0,21.4,16.7,24.9,Bajo,Bosque seco,Agrícola,No
+2023-09-12,Beni,-14.3272,-65.7704,37.6,22.3,2.5,28.2,Alto,Agrícola,Agrícola,No
+2023-09-13,Beni,-14.7643,-66.3364,39.5,78.9,19.1,25.8,Moderado,Sabana,Forestal,No
+2023-09-14,Beni,-13.7808,-66.353,39.7,22.2,10.6,27.3,Alto,Pasto,Forestal,No
+2023-09-15,Beni,-13.4364,-66.1826,32.2,22.6,17.3,27.1,Moderado,Agrícola,Urbano,No
+2023-09-16,Beni,-13.1932,-65.3169,26.4,57.5,14.0,15.6,Moderado,Agrícola,Urbano,No
+2023-09-17,Beni,-14.9575,-63.7102,27.9,56.8,6.1,22.6,Moderado,Sabana,Ganadero,No
+2023-09-18,Beni,-13.4609,-65.4605,35.7,34.5,18.0,15.7,Alto,Pasto,Forestal,No
+2023-09-19,Beni,-13.356,-64.3816,39.3,45.8,18.8,29.7,Moderado,Agrícola,Forestal,No
+2023-09-20,Beni,-13.6686,-63.3027,36.4,60.9,18.5,18.3,Alto,Bosque seco,Agrícola,No
+2023-09-21,Beni,-13.9781,-64.1127,36.6,77.3,18.7,11.1,Alto,Sabana,Ganadero,No
+2023-09-22,Beni,-14.0198,-65.3463,20.8,69.3,5.6,29.1,Alto,Bosque seco,Agrícola,No
+2023-09-23,Beni,-13.5675,-66.0235,33.9,67.2,9.3,18.4,Moderado,Agrícola,Agrícola,No
+2023-09-24,Beni,-14.6891,-65.1972,23.3,58.3,7.5,15.0,Moderado,Bosque seco,Ganadero,No
+2023-09-25,Beni,-14.8884,-66.6326,22.7,56.7,3.6,11.8,Moderado,Bosque seco,Urbano,No
+2023-09-26,Beni,-14.7847,-65.4765,32.2,53.8,14.9,3.2,Bajo,Bosque seco,Forestal,No
+2023-09-27,Beni,-13.525,-64.6477,27.4,36.6,5.4,26.8,Bajo,Bosque seco,Agrícola,No
+2023-09-28,Beni,-14.9333,-65.8562,21.8,69.2,16.4,21.3,Moderado,Agrícola,Agrícola,No
+2023-07-01,Beni,-14.8827,-63.2655,26.0,62.0,6.8,22.9,Alto,Bosque seco,Forestal,No
+2023-07-02,Beni,-14.8769,-64.2107,20.5,65.0,14.6,16.4,Alto,Sabana,Forestal,No
+2023-07-03,Beni,-14.1577,-66.1454,23.6,47.5,19.0,27.6,Alto,Bosque seco,Forestal,No
+2023-07-04,Beni,-14.3942,-64.1993,27.0,34.1,6.9,15.2,Alto,Sabana,Ganadero,No
+2023-07-05,Beni,-14.523,-64.8489,37.9,74.1,5.7,17.4,Moderado,Bosque seco,Forestal,No
+2023-07-06,Beni,-13.6425,-66.5811,24.5,53.2,3.4,23.7,Alto,Pasto,Agrícola,No
+2023-07-07,Beni,-14.4429,-63.7964,24.5,61.6,2.1,5.9,Alto,Bosque seco,Forestal,No
+2023-07-08,Beni,-14.3941,-66.1014,28.3,21.8,17.3,20.7,Bajo,Pasto,Urbano,No
+2023-07-09,Beni,-13.1405,-65.1748,39.2,42.5,5.5,6.6,Alto,Sabana,Ganadero,No
+2023-07-10,Beni,-14.9423,-65.0552,34.5,65.8,2.4,17.2,Moderado,Bosque seco,Forestal,No
+2023-07-11,Beni,-13.2342,-63.2814,36.4,79.6,13.3,2.3,Moderado,Pasto,Agrícola,No
+2023-07-12,Beni,-14.9426,-64.2655,37.9,47.1,17.2,11.4,Alto,Agrícola,Forestal,No
+2023-07-13,Beni,-14.8266,-65.646,35.7,22.7,16.6,2.6,Bajo,Pasto,Urbano,No
+2023-07-14,Beni,-14.0384,-66.2686,37.0,33.2,3.7,9.2,Moderado,Bosque seco,Agrícola,No
+2023-07-15,Beni,-14.1602,-64.3702,22.8,39.9,13.5,11.5,Moderado,Agrícola,Agrícola,No
+2023-07-16,Beni,-14.0153,-66.3072,28.8,76.4,19.0,17.0,Bajo,Bosque seco,Ganadero,No
+2023-07-17,Beni,-14.1392,-66.9906,30.0,77.8,1.3,29.1,Alto,Bosque seco,Urbano,No
+2023-07-18,Beni,-13.4547,-63.0689,22.5,42.5,2.1,23.1,Alto,Agrícola,Forestal,No
+2023-07-19,Beni,-14.9511,-65.0539,29.9,56.7,15.4,20.5,Moderado,Sabana,Agrícola,No
+2023-07-20,Beni,-14.8574,-66.3554,32.0,74.9,2.9,27.0,Bajo,Bosque seco,Ganadero,No
+2023-07-21,Beni,-14.0846,-63.3323,26.7,62.2,6.7,15.3,Bajo,Agrícola,Forestal,No
+2023-07-22,Beni,-14.5048,-66.9317,27.4,34.0,9.4,15.9,Bajo,Bosque seco,Forestal,No
+2023-07-23,Beni,-14.5647,-64.0053,22.9,23.5,9.7,1.8,Alto,Sabana,Ganadero,No
+2023-07-24,Beni,-13.1824,-63.9623,20.5,31.4,4.7,1.7,Moderado,Bosque seco,Forestal,No
+2023-07-25,Beni,-14.6871,-65.4661,23.4,59.6,11.0,20.2,Bajo,Agrícola,Urbano,No
+2023-07-26,Beni,-13.6785,-63.6658,29.9,68.5,19.6,1.6,Moderado,Bosque seco,Urbano,No
+2023-07-27,Beni,-14.0518,-64.5108,25.1,71.9,16.3,10.6,Bajo,Agrícola,Forestal,No
+2023-07-28,Beni,-14.0703,-65.5315,23.7,34.8,15.9,19.5,Moderado,Bosque seco,Ganadero,No
+2023-07-29,Beni,-14.7111,-65.789,38.8,25.0,8.5,4.5,Bajo,Pasto,Ganadero,No
+2023-07-30,Beni,-13.7963,-64.1031,28.5,57.7,8.0,14.4,Alto,Agrícola,Urbano,No
+2023-07-31,Beni,-13.5827,-64.7524,33.9,41.7,10.6,17.8,Alto,Sabana,Urbano,No
+2023-08-01,Beni,-14.3214,-63.0062,34.1,29.7,13.8,16.1,Bajo,Sabana,Urbano,No
+2023-08-02,Beni,-14.7515,-63.8419,35.4,78.7,13.2,14.2,Bajo,Bosque seco,Agrícola,No
+2023-08-03,Beni,-14.994,-66.1318,34.6,76.2,14.0,2.4,Alto,Bosque seco,Urbano,No
+2023-08-04,Beni,-14.2156,-64.4877,25.6,33.3,16.6,2.7,Bajo,Sabana,Forestal,No
+2023-08-05,Beni,-13.9957,-66.5939,20.3,42.3,14.8,27.2,Bajo,Sabana,Urbano,No
+2023-08-06,Beni,-14.4077,-65.39,26.9,24.8,10.9,27.0,Alto,Sabana,Ganadero,No
+2023-08-07,Beni,-13.1577,-65.4304,25.3,70.3,4.4,26.7,Bajo,Sabana,Agrícola,No
+2023-08-08,Beni,-13.0793,-65.3859,30.5,43.8,2.2,22.0,Bajo,Pasto,Forestal,No
+2023-08-09,Beni,-14.1273,-66.4425,34.6,31.6,14.9,29.6,Moderado,Pasto,Ganadero,No
+2023-08-10,Beni,-14.6602,-64.544,30.3,35.1,1.8,8.4,Moderado,Pasto,Ganadero,No
+2023-08-11,Beni,-14.1854,-63.7139,36.2,55.7,16.7,12.0,Alto,Sabana,Agrícola,No
+2023-08-12,Beni,-14.035,-63.0441,23.7,53.5,3.3,7.6,Moderado,Agrícola,Forestal,No
+2023-08-13,Beni,-13.9102,-66.7313,35.9,58.0,17.3,20.0,Bajo,Sabana,Ganadero,No
+2023-08-14,Beni,-14.882,-64.7728,27.3,41.6,9.3,11.9,Bajo,Bosque seco,Ganadero,No
+2023-08-15,Beni,-14.0697,-65.6728,24.9,44.6,6.6,0.6,Bajo,Bosque seco,Ganadero,No
+2023-08-16,Beni,-13.7292,-63.9443,25.3,35.1,14.1,13.1,Alto,Bosque seco,Agrícola,No
+2023-08-17,Beni,-14.2544,-66.6053,36.1,55.2,1.1,6.8,Moderado,Sabana,Forestal,No
+2023-08-18,Beni,-14.4668,-65.7343,36.6,56.2,6.9,13.6,Moderado,Pasto,Urbano,No
+2023-08-19,Beni,-14.3169,-66.5419,31.7,46.2,2.2,3.4,Alto,Sabana,Ganadero,No
+2023-08-20,Beni,-14.0852,-64.2126,30.8,57.8,19.5,24.5,Moderado,Pasto,Forestal,No
+2023-08-21,Beni,-13.5961,-66.0668,31.6,27.7,5.0,22.0,Alto,Pasto,Forestal,No
+2023-08-22,Beni,-13.7651,-66.9792,23.8,58.5,19.0,8.5,Bajo,Bosque seco,Forestal,No
+2023-08-23,Beni,-13.3991,-64.681,39.1,35.9,7.5,17.1,Moderado,Pasto,Ganadero,No
+2023-08-24,Beni,-14.8947,-64.4461,32.7,29.4,12.7,9.0,Alto,Sabana,Urbano,No
+2023-08-25,Beni,-14.2241,-63.8451,25.7,23.7,5.9,23.7,Moderado,Sabana,Urbano,No
+2023-08-26,Beni,-14.3461,-63.3796,32.5,37.0,17.3,12.5,Alto,Pasto,Agrícola,No
+2023-08-27,Beni,-14.2073,-63.6713,25.0,26.7,18.7,0.9,Bajo,Bosque seco,Ganadero,No
+2023-08-28,Beni,-14.5983,-66.917,38.4,61.1,4.2,8.9,Bajo,Bosque seco,Forestal,No
+2023-08-29,Beni,-13.1459,-65.7518,23.9,27.2,17.6,18.7,Bajo,Sabana,Forestal,No
+2023-08-30,Beni,-14.4438,-65.7701,31.5,60.6,5.9,28.3,Alto,Sabana,Forestal,No
+2023-08-31,Beni,-13.2955,-64.3749,40.0,49.5,8.8,6.0,Moderado,Agrícola,Agrícola,No
+2023-09-01,Beni,-14.2206,-63.4589,22.3,52.6,5.4,7.2,Bajo,Pasto,Agrícola,No
+2023-09-02,Beni,-13.2758,-66.8965,27.3,75.5,8.9,10.6,Bajo,Bosque seco,Urbano,No
+2023-09-03,Beni,-13.5899,-66.2106,33.0,38.8,9.2,15.2,Bajo,Agrícola,Forestal,No
+2023-09-04,Beni,-13.0888,-66.0964,23.2,29.7,19.8,9.0,Moderado,Bosque seco,Agrícola,No
+2023-09-05,Beni,-13.5081,-63.6745,20.5,73.9,14.0,11.0,Moderado,Agrícola,Urbano,No
+2023-09-06,Beni,-14.5305,-64.7081,25.1,73.0,10.9,5.8,Moderado,Agrícola,Forestal,No
+2023-09-07,Beni,-13.9979,-63.6536,27.1,37.1,8.7,23.7,Moderado,Pasto,Ganadero,No
+2023-09-08,Beni,-13.8095,-66.1945,26.4,20.8,8.7,3.5,Bajo,Sabana,Urbano,No
